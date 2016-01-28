@@ -1,11 +1,11 @@
-Welcome to SlimRoms
+Welcome to SlimLPFord
 ===================
 
 
 Getting Started
 ---------------
 
-To get started with SlimLP, you'll need to get familiar with
+To get started with SlimLPFord, you'll need to get familiar with
 [Git and Repo](http://source.android.com/download/using-repo).
 
 Please take note that we have two main line branches depending on
